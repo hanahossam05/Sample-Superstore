@@ -15,27 +15,19 @@ The final analysis and findings were documented in a Jupyter Notebook report.
 
 ---
 
-🎯 Business Areas Analyzed
+🎯Project Sections
 
-📈 Sales Performance
+1. Overview
 
-💰 Profitability Analysis
+2. Time Analysis
 
-🏷️ Category & Sub-Category Performance
+3. Product Analysis
 
-📦 Product Performance
+4. Customer Analysis
 
-📅 MoM & YoY Trends
+5. Geographic Analysis
 
-🔄 Seasonality & Peak Sales
-
-🚚 Shipping Performance
-
-👥 Customer Loyalty
-
-🎯 RFM Customer Segmentation
-
-
+6. Key Insights & Recommendations
 
 ---
 
